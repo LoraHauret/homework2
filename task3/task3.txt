@@ -1,0 +1,83 @@
+﻿Задание 3
+Пользователь вводит строку с клавиатуры. Необходи-
+мо зашифровать данную строку используя шифр Цезаря.
+Из Википедии:
+Шифр Цезаря — это вид шифра подстановки, в ко-
+тором каждый символ в открытом тексте заменяется
+символом, находящимся на некотором постоянном числе
+позиций левее или правее него в алфавите. Например,
+в шифре со сдвигом вправо на 3, A была бы заменена на
+D, B станет E, и так далее.
+Подробнее тут: https://en.wikipedia.org/wiki/Caesar_
+cipher.
+Кроме механизма шифровки, реализуйте механизм
+расшифрования.
+
+
+Je Veux (оригинал ZAZ)												
+Donnez moi un suite au Ritz, je n'en veux pas!						
+Des bijoux de chez CHANEL, je n'en veux pas!						
+Donnez moi une limousine, j'en ferais quoi? Papalapapapala			
+Offrez moi du personnel, j'en ferais quoi?							
+Un manoir a Neuchâtel, ce n'est pas pour moi.						
+Offrez moi la Tour Eiffel, j'en ferais quoi? Papalapapapala	
+
+[Refrain:]															
+Je veux d'l'amour, d'la joie, de la bonne humeur,					
+Ce n'est pas votre argent qui f'ra mon bonheur,						
+Moi j'veux crever la main sur le coeur papalapapapala				
+Allons ensemble, découvrir ma liberté,								
+Oubliez donc tous vos clichés,										
+Bienvenue dans ma réalité.											
+
+
+J'en ai marre d'vos bonnes manières, c'est trop pour moi !			
+Moi je mange avec les mains et j'suis comme ça !					
+J'parle fort et je suis franche, excusez moi!						
+Fini l'hypocrisie moi j'me casse de la!								
+J'en ai marre des langues de bois!									
+Regardez moi, de toute manière j'vous en veux pas					
+Et j'suis comme çaaaaaaa (j'suis comme çaaa) papalapapapala			
+
+
+Je veux d'l'amour, d'la joie, de la bonne humeur,					
+Ce n'est pas votre argent qui f'ra mon bonheur,						
+Moi j'veux crever la main sur le coeur papalapapapala				
+Allons ensemble, découvrir ma liberté,								
+Oubliez donc tous vos clichés,										
+Bienvenue dans ma réalité.	
+
+
+Я хочу (перевод )
+Дайте мне апартаменты в Ritz — они мне не нужны!
+Драгоценности от Chanel — они мне не нужны!
+Дайте мне лимузин — что мне с ним делать? Папалапапапала!
+Предложите мне личный штат — что мне с ним делать?
+Замок в Нойшатель 1 — это не для меня.
+Предложите мне Эйфелеву башню — что мне с ней делать? Папалапапапала!
+
+
+[Припев:]
+Я хочу любви, веселья, хорошего настроения!
+Ваши деньги не принесут мне радости.
+Я хочу прожить жизнь с чистым сердцем. Папалапапапала!
+Идём со мной, я покажу свою свободу!
+Итак, забудьте о всех своих стереотипах,
+Добро пожаловать в мою реальность!
+
+
+Хватит с меня ваших условностей, это выше моих сил!
+Я ем руками, я просто такая какая есть.
+У меня громкий голос и я всегда говорю напрямик, без обид!
+Довольно лицемерия, я сваливаю!
+Меня достали казённые речи!
+Посмотрите на меня, я всё равно на вас зла не держу,
+Я такая (я такая) Папалапапапала!
+
+
+Я хочу любви, веселья, хорошего настроения!
+Ваши деньги не принесут мне радости.
+Я хочу прожить жизнь с чистым сердцем. Папалапапапала!
+Идём со мной, я покажу свою свободу!
+Итак, забудьте о всех своих стереотипах,
+Добро пожаловать в мою реальность!

@@ -1,0 +1,28 @@
+﻿Задание 7
+Создайте приложение, проверяющее текст на недо-
+пустимые слова. Если недопустимое слово найдено, оно
+должно быть заменено на набор символов *. По итогам
+работы приложения необходимо показать статистику
+действий.
+Например, если и у нас есть такой текст:
+To be, or not to be, that is the question,
+Whether 'tis nobler in the mind to suffer
+The slings and arrows of outrageous fortune,
+Or to take arms against a sea of troubles,
+And by opposing end them? To die: to sleep;
+No more; and by a sleep to say we end
+The heart-ache and the thousand natural shocks
+That flesh is heir to, 'tis a consummation
+Devoutly to be wish'd. To die, to sleep
+Недопустимое слово: die.
+Результат работы:
+To be, or not to be, that is the question,
+Whether 'tis nobler in the mind to suffer
+The slings and arrows of outrageous fortune,
+Or to take arms against a sea of troubles,
+And by opposing end them? To ***: to sleep;
+No more; and by a sleep to say we end
+The heart-ache and the thousand natural shocks
+That flesh is heir to, 'tis a consummation
+Devoutly to be wish'd. To ***, to sleep.
+Статистика: 2 замены слова die.
